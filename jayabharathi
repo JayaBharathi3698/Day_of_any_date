@@ -64,18 +64,18 @@ printf("The date %d:%d:%d which you entered is : ",dd,mm,yy);
 //to calculate day;
 int rem=(sum%7);
 if(rem==0)
-printf("Saturday ");
+printf("SSSSSSaturday ");
 else if(rem==1)
-printf("Sundayyyyy");
+printf("SSSSSundayyyyy");
 else if(rem==2)
-printf("Mondayyyyyy");
+printf("MMMMMMondayyyyyy");
 else if(rem==3)
-printf("Tuesdayyyyyyyyyy");
+printf("TTTTTuesdayyyyyyyyyy");
 else if(rem==4)
-printf("Wednesdayyyy");
+printf("WWWWWWWednesdayyyy");
 else if(rem==5)
-printf("Thursdayyyyy ");
+printf("TTTTTTThursdayyyyy ");
 else if(rem==6)
-printf("Fridayyyy");
+printf("FFFFFFFridayyyy");
 }
 
