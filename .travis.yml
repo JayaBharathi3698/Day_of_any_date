@@ -2,5 +2,5 @@ language: c
 sudo:  false #only for faster builds
 compiler: gcc
 script:
-  -gcc -o file file.c
+  - gcc -o file file.c
   - ./file
